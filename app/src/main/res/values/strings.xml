@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">GithubTest</string>
-    <string name="titleA" translatable="false">Hello there</string>
-    <string name="titleB" translatable="false">Obiwan kenobi</string>
-    <string name="titleC" translatable="false">Me llamo Lebron James</string>
+    <string name="titleA" translatable="false">Pokemon Tamagotchi</string>
+    <string name="titleB" translatable="false">Enter your pokemons name</string>
+    <string name="titleC" translatable="false">Enter your pokemons level</string>
+    <string name="titleD" translatable="false">Enter your pokemons ability</string>
+    <string name="titleE" translatable="false">Enter your pokemons nature</string>
 </resources>
